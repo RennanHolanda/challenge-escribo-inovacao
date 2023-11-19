@@ -30,13 +30,3 @@ sumOfInterger(10);
 // Isso retornará no console:
 // A soma dos valores divisíveis por 3 ou 5 é: 23
 
-## Considerações
-
-
-Certifique-se de fornecer um número inteiro positivo como argumento para a função sumOfInterger. Se o argumento não for um número inteiro positivo, a função exibirá uma mensagem indicando que é necessário fornecer um número válido.
-
-Considerações
-Validação de Entrada: A função inclui uma verificação para garantir que o número fornecido seja um inteiro positivo. Caso contrário, mostrará uma mensagem de erro.
-Personalização: Adapte a função conforme necessário para integrá-la ao seu código ou projeto específico.
-
-Este arquivo README.md fornece instruções claras sobre como utilizar a função sumOfInterger em um projeto JavaScript. Você pode ajustá-lo e expandi-lo conforme necessário para o contexto do seu próprio projeto.
