@@ -15,13 +15,23 @@ A função `sumOfInterger` calcula a soma dos valores que são divisíveis por 3
     }
     ```
 
-3. **Chamar a função:** Chame a função `sumOfInterger` com um número inteiro positivo como argumento para calcular a soma:
+3. **Chamar a função no Node.js:**
 
-    ```javascript
-    sumOfInterger(10); // Substitua o valor 10 pelo número desejado
+    - No terminal, navegue até o diretório onde está o arquivo `sumOfInterger.js`.
+    - Utilize a função `require` do Node.js para importar a função e executá-la com um número inteiro positivo:
+
+    ```bash
+    node sumOfInterger.js
     ```
 
-4. **Resultado:** O resultado será a soma dos valores divisíveis por 3 ou 5 até o número especificado.
+    **Nota:** Certifique-se de substituir o valor dentro da função `sumOfInterger` pelo número desejado.
+
+4. **Testando a função:**
+
+    Para testar a função `sumOfInterger`, siga estas etapas:
+
+    - Chame a função com diferentes números inteiros positivos para verificar a soma dos valores divisíveis por 3 ou 5.
+    - Verifique se a função retorna a soma correta para diferentes valores.
 
 ## Exemplo de uso:
 
