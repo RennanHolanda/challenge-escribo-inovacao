@@ -29,6 +29,7 @@ A função `sumOfInterger` calcula a soma dos valores que são divisíveis por 3
 sumOfInterger(10);
 // Isso retornará no console:
 // A soma dos valores divisíveis por 3 ou 5 é: 23
+```
 
 ## Considerações
 
